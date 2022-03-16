@@ -29,7 +29,7 @@ $('body').terminal({
     },
     cv: function () {
         window.open("files\\Khalid's_CV_2022.pdf");
-        his.echo("\n");
+        this.echo("\n");
     },
     profile: function () {
         this.echo(
