@@ -13,7 +13,7 @@ $('body').terminal({
         this.echo('\tCyber Security and Digital Forensics\n');
     },
     cert: function () {
-        this.echo('\teJPT: elearn Joniur Penetration Tester\n');
+        this.echo('\teJPT: elearn Junior Penetration Tester\n');
     },
     github: function () {
         window.open("https://github.com/khaldalsaif");
